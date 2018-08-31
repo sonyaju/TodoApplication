@@ -12,9 +12,7 @@ using ToDoApp.Filters;
 using ToDoApp.Utility;
 using ToDoApp.WebApi_Exception;
 
-/// <summary>
-/// 
-/// </summary>
+
 namespace ToDoApp.Controllers
 {
     public class ToDoController : ApiController
@@ -120,11 +118,12 @@ namespace ToDoApp.Controllers
             //Write to log file if error is present
             if (errorlist.Count > 0)
             {
-                //converting to lamda
-                foreach (var error in errorlist)
-                {
-                    Logger.WriteLog(AppConstants.Error + "in GetToDo() for ID : " + id + AppConstants.Error_Code + error.errorCode + AppConstants.Error_Message + error.errorMessage);
-                }
+                //logging error messaages
+                errorlist.ForEach(error => Logger.WriteLog(AppConstants.Error + "in GetToDo() for ID : " + id + AppConstants.Error_Code + error.errorCode + AppConstants.Error_Message + error.errorMessage));
+                //foreach (var error in errorlist)
+                //{
+                //    Logger.WriteLog(AppConstants.Error + "in GetToDo() for ID : " + id + AppConstants.Error_Code + error.errorCode + AppConstants.Error_Message + error.errorMessage);
+                //}
             }
             responseHeader.statusCode = statusCode;
             responseHeader.statusMessage = statusMessage;
@@ -179,16 +178,6 @@ namespace ToDoApp.Controllers
                     errorlist.Add(new Error(AppConstants.TODO_ID_MISMATCH_MSG, AppConstants.TODO_ID_MISMATCH));
                 }
 
-                //// Check if same item is already present
-                //else if (ValidateUtility.ToDoExists(_repository.getAllTodo(), toDo))
-                //{
-                //    httpStatusCode = HttpStatusCode.Conflict;
-                //    statusMessage = AppConstants.Error;
-                //    Error error = new Error(AppConstants.TODO_ALREADY_EXIST, AppConstants.TODO_ALREADY_EXIST_MSG);
-                //    errorlist.Add(error);
-                //    Logger.WriteLog(AppConstants.TODO_ALREADY_EXIST_MSG);
-                //}
-
                 // Perform the Edit operation
                 else
                 {
@@ -220,7 +209,7 @@ namespace ToDoApp.Controllers
 
                     Logger.WriteLog(AppConstants.Error_Message + strErrorMsg +
                                     AppConstants.Inner_Exception + dbEx.InnerException +
-                                     AppConstants.Stack_Trace + dbEx.StackTrace + AppConstants.Soure + dbEx.Source);
+                                    AppConstants.Stack_Trace + dbEx.StackTrace + AppConstants.Soure + dbEx.Source);
                 }
                 else
                 {
@@ -232,11 +221,8 @@ namespace ToDoApp.Controllers
             //Write to log file if error is present
             if (errorlist.Count > 0)
             {
-                foreach (var error in errorlist)
-                {
-                    Logger.WriteLog(AppConstants.Error + " in PutToDo() for ID : " + id + AppConstants.Error_Code
-                                   + error.errorCode + AppConstants.Error_Message + error.errorMessage);
-                }
+                errorlist.ForEach(error => Logger.WriteLog(AppConstants.Error + " in PutToDo() for ID : " + id + AppConstants.Error_Code
+                                   + error.errorCode + AppConstants.Error_Message + error.errorMessage));                
             }
             responseHeader.statusCode = statusCode;
             responseHeader.statusMessage = statusMessage;
@@ -417,11 +403,8 @@ namespace ToDoApp.Controllers
             //Write to log file if error is present
             if (errorlist.Count > 0)
             {
-                foreach (var error in errorlist)
-                {
-                    Logger.WriteLog(AppConstants.Error + " in DeleteToDo() for ID : " + id + AppConstants.Error_Code
-                                   + error.errorCode + AppConstants.Error_Message + error.errorMessage);
-                }
+                errorlist.ForEach(error => Logger.WriteLog(AppConstants.Error + " in DeleteToDo() for ID : " + id + AppConstants.Error_Code
+                                    + error.errorCode + AppConstants.Error_Message + error.errorMessage));                
             }
             responseHeader.statusCode = statusCode;
             responseHeader.statusMessage = statusMessage;
@@ -453,18 +436,7 @@ namespace ToDoApp.Controllers
         public bool ToDoIdExists(int id)
         {
             return ValidateUtility.ToDoIdExists(_repository.getAllTodo(), id);
-        }
-
-        
-        /// <summary>
-        /// Method to check if item already exist in the database for the given id
-        /// </summary>
-        /// <param name="id"></param>
-        /// <returns>true if value exist, false if value doesnt exist</returns>
-        //public bool ToDoExists(ToDo toDo)
-        //{        
-        //    return ValidateUtility.ToDoExists(_repository.getAllTodo(), toDo);
-        //}
+        } 
 
     }
 }

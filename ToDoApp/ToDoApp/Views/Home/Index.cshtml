@@ -269,6 +269,7 @@
 
     //Method to Load all To do items by making call to WEB API GET method
     function loadTodo() {
+        //clear the inner html error list       
         $.ajax({
             type: "GET",
             url: "api/ToDo",
@@ -376,8 +377,7 @@
                         //handling error response, for list of errors
                         $.each(data.responseHeader.error, function (i, currentError) {
                             $.each(currentError, function (key, value) {
-                                if (key == "errorMessage") {
-                                    alert("Loop: "+i);
+                                if (key == "errorMessage") {                                    
                                     if (i < data.responseHeader.error.length - 1) {
                                         $("#errorText").append("<li>" + value + "</li>");
                                         $("#errorText").css({ "color": "red" });
@@ -409,6 +409,7 @@
     // Method to Delete the Record
     // Delete()
     ToDoViewModel.deleteToDo = function (d) {
+        $("#errorText").html("");
         $.ajax({
             type: "DELETE",
             url: "api/ToDo/" + d.SlNo,
