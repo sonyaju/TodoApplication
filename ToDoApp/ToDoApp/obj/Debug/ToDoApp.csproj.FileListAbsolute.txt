@@ -1,0 +1,240 @@
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\ApplicationInsights.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\ToDoApp.dll.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\ToDoApp.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\ToDoApp.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\csc.exe
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\csc.exe.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\csc.rsp
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\csi.exe
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\csi.exe.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\csi.rsp
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.AppContext.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Collections.Immutable.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Console.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.IO.Compression.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.IO.FileSystem.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.IO.Pipes.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Security.AccessControl.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Security.Claims.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.ValueTuple.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Xml.XPath.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\vbc.exe
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\vbc.exe.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\vbc.rsp
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\VBCSCompiler.exe
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\roslyn\VBCSCompiler.exe.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Antlr3.Runtime.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\CommonServiceLocator.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\EntityFramework.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\EntityFramework.SqlServer.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.AI.Web.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.AI.WindowsServer.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.ApplicationInsights.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.Web.Infrastructure.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Newtonsoft.Json.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Configuration.ConfigurationManager.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Net.Http.Formatting.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.Helpers.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.Http.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.Http.WebHost.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.Mvc.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.Optimization.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.Razor.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.WebPages.Deployment.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.WebPages.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.WebPages.Razor.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Unity.Abstractions.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Unity.Configuration.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Unity.Container.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Unity.Interception.Configuration.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Unity.Interception.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Unity.RegistrationByConvention.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Unity.ServiceLocation.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\WebApi.OutputCache.Core.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\WebApi.OutputCache.V2.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\WebGrease.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\CommonServiceLocator.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\EntityFramework.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\EntityFramework.SqlServer.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Newtonsoft.Json.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Net.Http.Formatting.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.Helpers.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.Http.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.Http.WebHost.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.Mvc.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.Optimization.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.Razor.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.WebPages.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.WebPages.Deployment.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Web.WebPages.Razor.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Unity.Abstractions.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Unity.Configuration.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Unity.Container.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Unity.Interception.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Unity.Interception.Configuration.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Unity.RegistrationByConvention.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Unity.ServiceLocation.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\WebApi.OutputCache.V2.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Antlr3.Runtime.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.AI.WindowsServer.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.AI.Web.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CopyComplete
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\ApplicationInsights.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\ToDoApp.dll.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\ToDoApp.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\ToDoApp.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\csc.exe
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\csc.exe.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\csc.rsp
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\csi.exe
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\csi.exe.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\csi.rsp
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.AppContext.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Collections.Immutable.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Console.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.IO.Compression.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.IO.FileSystem.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.IO.Pipes.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Security.AccessControl.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Security.Claims.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.ValueTuple.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Xml.XPath.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\vbc.exe
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\vbc.exe.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\vbc.rsp
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\VBCSCompiler.exe
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\roslyn\VBCSCompiler.exe.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Antlr3.Runtime.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\CommonServiceLocator.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\EntityFramework.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\EntityFramework.SqlServer.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.AI.Web.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.AI.WindowsServer.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.ApplicationInsights.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.Web.Infrastructure.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Newtonsoft.Json.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Configuration.ConfigurationManager.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Net.Http.Formatting.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.Helpers.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.Http.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.Http.WebHost.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.Mvc.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.Optimization.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.Razor.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.WebPages.Deployment.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.WebPages.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.WebPages.Razor.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Unity.Abstractions.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Unity.Configuration.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Unity.Container.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Unity.Interception.Configuration.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Unity.Interception.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Unity.RegistrationByConvention.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Unity.ServiceLocation.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\WebApi.OutputCache.Core.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\WebApi.OutputCache.V2.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\WebGrease.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\CommonServiceLocator.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\EntityFramework.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\EntityFramework.SqlServer.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Newtonsoft.Json.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Net.Http.Formatting.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.Helpers.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.Http.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.Http.WebHost.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.Mvc.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.Optimization.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.Razor.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.WebPages.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.WebPages.Deployment.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Web.WebPages.Razor.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Unity.Abstractions.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Unity.Configuration.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Unity.Container.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Unity.Interception.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Unity.Interception.Configuration.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Unity.RegistrationByConvention.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Unity.ServiceLocation.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\WebApi.OutputCache.V2.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Antlr3.Runtime.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.AI.WindowsServer.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.AI.Web.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\obj\Debug\ToDoApp.csproj.CopyComplete
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\obj\Debug\ToDoApp.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\ToDoApp\obj\Debug\ToDoApp.pdb

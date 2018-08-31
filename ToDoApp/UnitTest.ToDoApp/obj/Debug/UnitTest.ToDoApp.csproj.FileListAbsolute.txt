@@ -1,0 +1,142 @@
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\ApplicationInsights.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\UnitTest.ToDoApp.dll.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\UnitTest.ToDoApp.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\UnitTest.ToDoApp.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Castle.Core.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\CommonServiceLocator.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Moq.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Newtonsoft.Json.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.ValueTuple.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.Http.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\ToDoApp.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Unity.Abstractions.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Unity.Configuration.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Unity.Container.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Unity.Interception.Configuration.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Unity.Interception.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Unity.RegistrationByConvention.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Unity.ServiceLocation.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\WebApi.OutputCache.Core.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\WebApi.OutputCache.V2.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.Optimization.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.Mvc.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\EntityFramework.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.Http.WebHost.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.WebPages.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.WebPages.Razor.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.Razor.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\ToDoApp.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\ToDoApp.dll.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Castle.Core.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\CommonServiceLocator.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Moq.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Moq.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Newtonsoft.Json.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.ValueTuple.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.Http.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Unity.Abstractions.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Unity.Configuration.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Unity.Container.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Unity.Interception.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Unity.Interception.Configuration.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\Unity.ServiceLocation.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\WebApi.OutputCache.V2.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.Optimization.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.Mvc.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\EntityFramework.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.Http.WebHost.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.WebPages.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.WebPages.Razor.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.Razor.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\obj\Debug\UnitTest.ToDoApp.csprojAssemblyReference.cache
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\obj\Debug\UnitTest.ToDoApp.csproj.CoreCompileInputs.cache
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\obj\Debug\UnitTest.ToDoApp.csproj.CopyComplete
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\obj\Debug\UnitTest.ToDoApp.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp\UnitTest.ToDoApp\obj\Debug\UnitTest.ToDoApp.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\ApplicationInsights.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\UnitTest.ToDoApp.dll.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\UnitTest.ToDoApp.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\UnitTest.ToDoApp.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Castle.Core.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\CommonServiceLocator.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Moq.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Newtonsoft.Json.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.ValueTuple.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.Http.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\ToDoApp.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Unity.Abstractions.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Unity.Configuration.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Unity.Container.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Unity.Interception.Configuration.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Unity.Interception.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Unity.RegistrationByConvention.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Unity.ServiceLocation.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\WebApi.OutputCache.Core.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\WebApi.OutputCache.V2.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.Optimization.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.Mvc.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\EntityFramework.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.Http.WebHost.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.WebPages.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.WebPages.Razor.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.Razor.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\ToDoApp.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\ToDoApp.dll.config
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Castle.Core.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\CommonServiceLocator.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Moq.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Moq.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Newtonsoft.Json.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.ValueTuple.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.Http.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Unity.Abstractions.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Unity.Configuration.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Unity.Container.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Unity.Interception.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Unity.Interception.Configuration.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\Unity.ServiceLocation.pdb
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\WebApi.OutputCache.V2.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.Optimization.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.Mvc.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\EntityFramework.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.Http.WebHost.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.WebPages.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.WebPages.Razor.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.Razor.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\obj\Debug\UnitTest.ToDoApp.csprojAssemblyReference.cache
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\obj\Debug\UnitTest.ToDoApp.csproj.CoreCompileInputs.cache
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\obj\Debug\UnitTest.ToDoApp.csproj.CopyComplete
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\obj\Debug\UnitTest.ToDoApp.dll
+C:\AJU\AjusApps\ToDoApp\ToDoApp - Copy (7)\UnitTest.ToDoApp\obj\Debug\UnitTest.ToDoApp.pdb
