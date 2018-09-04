@@ -48,13 +48,13 @@ namespace ToDoApp.Utility
             List<Error> errorList = new List<Error>();
             
             //check if  item is null
-             if (string.IsNullOrWhiteSpace(todo.Item))
+             if (null == todo || string.IsNullOrWhiteSpace(todo.Item))
             {
                 errorList.Add(new Error(AppConstants.ITEM_EMPTY_MSG, AppConstants.ITEM_EMPTY));
             }
 
             //check if description is null
-            if (string.IsNullOrWhiteSpace(todo.Description))
+            if (null == todo || string.IsNullOrWhiteSpace(todo.Description))
             {
                 errorList.Add(new Error(AppConstants.DESCRIPTION_EMPTY_MSG, AppConstants.DESCRIPTION_EMPTY));
             }

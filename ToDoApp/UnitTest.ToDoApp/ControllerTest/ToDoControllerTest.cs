@@ -190,24 +190,24 @@ namespace UnitTest.ToDoApp
         }
 
         /// <summary>
-        /// This method is used to test the PostToDo of the controller which is used to add new item
+        /// This method is used to test the AddNewToDo of the controller which is used to add new item
         /// </summary>
         [TestMethod]
-        public void Test_PostToDo_Add()
+        public void Test_UpdateToDo_Add()
         {
             MockTodoRepository mockToDoObj = new MockTodoRepository();
             ToDoController tc = new ToDoController(mockToDoObj);
             ToDo toDoITem = new ToDo { SlNo = 0, Item = "Insert Test", Description = "Test the Post api" };
-            TodoResponse apiToDoResponse = tc.PostToDo(toDoITem);
+            TodoResponse apiToDoResponse = tc.AddNewToDo(toDoITem);
             Assert.AreEqual(AppConstants.Success, apiToDoResponse.responseHeader.statusMessage);
             Assert.AreEqual(HttpStatusCode.OK, apiToDoResponse.responseHeader.statusCode);
         }
 
         /// <summary>
-        /// This method is used to test the PostToDo of the controller for scenario where item already exist
+        /// This method is used to test the AddNewToDo of the controller for scenario where item already exist
         /// </summary>
         [TestMethod]
-        public void Test_PostToDo_Item_Already_Exist()
+        public void Test_UpdateToDo_Item_Already_Exist()
         {
             Mock<ITodoRepository> mockRepository = new Mock<ITodoRepository>();
             mockRepository.Setup(mr => mr.save(It.IsAny<ToDo>())).Returns(1);
@@ -218,7 +218,7 @@ namespace UnitTest.ToDoApp
 
             ToDoController tc = new ToDoController(mockRepository.Object);
             ToDo toDoITem = new ToDo { SlNo = 1, Item = "Item1", Description = "Desc Item1" };
-            TodoResponse apiToDoResponse = tc.PostToDo(toDoITem);
+            TodoResponse apiToDoResponse = tc.AddNewToDo(toDoITem);
             
             Assert.AreEqual(apiToDoResponse.responseHeader.statusMessage, AppConstants.Error);
             Assert.AreEqual(apiToDoResponse.responseHeader.statusCode, HttpStatusCode.Conflict);
@@ -227,10 +227,10 @@ namespace UnitTest.ToDoApp
         }
 
         /// <summary>
-        /// This method is used to test the PostToDo of the controller for internal server error exception handling
+        /// This method is used to test the AddNewToDo of the controller for internal server error exception handling
         /// </summary>
         [TestMethod]
-        public void Test_PostToDo_Internal_Server_Error()
+        public void Test_UpdateToDo_Internal_Server_Error()
         {
             Mock<ITodoRepository> mockRepository = new Mock<ITodoRepository>();
             mockRepository.Setup(mr => mr.insert(It.IsAny<ToDo>())).Returns(0);
@@ -241,7 +241,7 @@ namespace UnitTest.ToDoApp
             mockRepository.Setup(mr => mr.getAllTodo()).Returns(getAllTodo);
 
             ToDo toDoITem = new ToDo { SlNo = 2, Item = "Item", Description = "Desc" };
-            TodoResponse apiToDoResponse = tc.PostToDo(toDoITem);
+            TodoResponse apiToDoResponse = tc.AddNewToDo(toDoITem);
 
             Assert.AreEqual(apiToDoResponse.responseHeader.error[0].errorCode, AppConstants.INSERT_FAILED);
             Assert.AreEqual(apiToDoResponse.responseHeader.error[0].errorMessage, AppConstants.INSERT_FAILED_MSG);
@@ -250,16 +250,16 @@ namespace UnitTest.ToDoApp
         }
 
         /// <summary>
-        /// This method is used to test the PostToDo of the controller for empty input
+        /// This method is used to test the AddNewToDo of the controller for empty input
         /// </summary>
         [TestMethod]
-        public void Test_PostToDo_Id_Empty_Input()
+        public void Test_UpdateToDo_Id_Empty_Input()
         {
             Mock<ITodoRepository> mockRepository = new Mock<ITodoRepository>();
             ToDoController tc = new ToDoController(mockRepository.Object);
 
             ToDo toDoITem = new ToDo { SlNo = 2, Item = "", Description = "" };
-            TodoResponse apiToDoResponse = tc.PostToDo(toDoITem);
+            TodoResponse apiToDoResponse = tc.AddNewToDo(toDoITem);
 
             Assert.AreEqual(apiToDoResponse.responseHeader.error[0].errorCode, AppConstants.ITEM_EMPTY);
             Assert.AreEqual(apiToDoResponse.responseHeader.error[0].errorMessage, AppConstants.ITEM_EMPTY_MSG);

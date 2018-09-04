@@ -233,6 +233,8 @@ namespace ToDoApp.Controllers
             return todoResponse;
         }
 
+
+
         /// <summary>
         /// POST api method to insert a new ToDo item in the database
         /// </summary>
@@ -240,7 +242,8 @@ namespace ToDoApp.Controllers
         /// <returns></returns>
         // POST: api/ToDo
         [ResponseType(typeof(ToDo))]
-        public TodoResponse PostToDo(ToDo toDo)
+        [HttpPost] // Routing by explicitly specifying the HTTP Action type in the header
+        public TodoResponse AddNewToDo(ToDo toDo)
         {
             TodoResponse todoResponse = new TodoResponse();
             ResponseHeader responseHeader = new ResponseHeader();
